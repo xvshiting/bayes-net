@@ -1,6 +1,6 @@
 # byes-net
 
-This  repo  is an universal  reality of bayes-net with Programming Language Python. It will  provide useful tools  to help you build and  visual your bayes-net .
+This  repo  is an universal  reality of bayes-net with Programming Language Python. It will  provide useful tools  to help you building and  visualizing your bayes-net .
 
 ##### Functions comming soon... 
 
